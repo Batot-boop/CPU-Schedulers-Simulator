@@ -29,9 +29,9 @@
 * [TestRR](src/tests/TestRR.java)
 
 ### Tasks to be performed
-- [ ] Implement RR with context swiching
-- [ ] Handle quantum
-- [ ] Calculate times
+- [x] Implement RR with context swiching
+- [x] Handle quantum
+- [x] Calculate times
 
 ## Member 4 - Preemptive Priority <!-- Mohamed Sayed -->
 ### Working files
