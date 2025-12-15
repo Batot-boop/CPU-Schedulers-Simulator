@@ -1,6 +1,6 @@
 # Tasks Memberships
 
-## Member 1 - Input/Output + Models
+## Member 1 - Input/Output + Models <!-- Malak Khattab -->
 ### Working files
 * [Process](src/models/process.java)
 * [InputHandler](src/io/inputHandler.java)
@@ -13,7 +13,7 @@
 - [ ] Print all results
 - [ ] Create main program that calls all schedulers
 
-## Member 2 - Preemptive SJF
+## Member 2 - Preemptive SJF <!-- Gehad Shaban -->
 ### Working files
 * [SJFScheduler](src/schedulers/SJFScheduler.java)
 * [TestSJF](src/tests/TestSJF.java)
@@ -23,7 +23,7 @@
 - [ ] Implement context switching
 - [ ] Return execution history, waiting time, turnaround
 
-## Member 3 - Round Robin
+## Member 3 - Round Robin <!-- Ahmed Hassan -->
 ### Working files
 * [RRScheduler](src/schedulers/RRScheduler.java)
 * [TestRR](src/tests/TestRR.java)
@@ -33,7 +33,7 @@
 - [ ] Handle quantum
 - [ ] Calculate times
 
-## Member 4 - Preemptive Priority
+## Member 4 - Preemptive Priority <!-- Mohamed Sayed -->
 ### Working files
 * [PriorityScheduler](src/schedulers/PriorityScheduler.java)
 * [TestPriority](src/tests/TestPriority.java)
@@ -43,7 +43,7 @@
 - [ ] Add starvation prevention
 - [ ] Context switching
 
-## Member 5 - AG Scheduling
+## Member 5 - AG Scheduling <!-- Ahmed Mohamed -->
 ### Working files
 * [AGScheduler](src/schedulers/AGScheduler.java)
 * [TestAG](src/tests/TestAG.java)
